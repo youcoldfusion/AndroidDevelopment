@@ -1,1 +1,1 @@
-Normally we use Kotlin for developing Android Applications. 
+Normally we use Kotlin for developing Android Applications.  
